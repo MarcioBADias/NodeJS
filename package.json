@@ -1,0 +1,9 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "primeiro projeto de aprendizado",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Marcio Dias",
+  "license": "MIT"
+}
