@@ -2,10 +2,10 @@ POST http://localhost:4004/products
 content-type: application/json
 
 {
-   "name": "Blue Marvel",
-  "price": 30,
-  "quantidade": 1,
-  "id": "af031"
+    "name": "Morbius",
+    "price": 20,
+    "quantidade": 1,
+    "id": "smba031"
 }
 
 ###
