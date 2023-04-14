@@ -5,5 +5,9 @@
   "main": "index.js",
   "scripts": {},
   "author": "Marcio Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
 }
