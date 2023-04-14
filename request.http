@@ -2,10 +2,10 @@ POST http://localhost:4004/products
 content-type: application/json
 
 {
-    "name": "Blue Marvel",
-    "price": 30,
-    "quantidade": 1,
-    "id": "af031"
+   "name": "Blue Marvel",
+  "price": 30,
+  "quantidade": 1,
+  "id": "af031"
 }
 
 ###
@@ -14,4 +14,18 @@ GET http://localhost:4004/products
 
 ###
 
-GET http://localhost:4004/products/smba032
+GET http://localhost:4004/products/af031
+
+###
+
+PUT http://localhost:4004/products/smba032
+content-type: application/json
+
+{
+  "price": 15,
+  "quantidade": 10
+}
+
+###
+
+DELETE  http://localhost:4004/products/af031
