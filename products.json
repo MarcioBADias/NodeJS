@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Morbius",
+        "price": 20,
+        "quantidade": 1,
+        "id": "smba031"
+    },
+    {
+        "name": "Mysterio",
+        "price": 25,
+        "quantidade": 1,
+        "id": "smba032"
+    },
+    {
+        "name": "Blue Marvel",
+        "price": 30,
+        "quantidade": 1,
+        "id": "af031"
+    }
+]

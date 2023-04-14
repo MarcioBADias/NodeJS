@@ -2,10 +2,10 @@ POST http://localhost:4004/products
 content-type: application/json
 
 {
-    "name": "Morbius",
-    "price": 20,
+    "name": "Blue Marvel",
+    "price": 30,
     "quantidade": 1,
-    "id": "smba031"
+    "id": "af031"
 }
 
 ###
@@ -18,12 +18,12 @@ GET http://localhost:4004/products/af031
 
 ###
 
-PUT http://localhost:4004/products/smba032
+PUT http://localhost:4004/products/af035
 content-type: application/json
 
 {
   "price": 15,
-  "quantidade": 10
+  "quantidade": 20
 }
 
 ###
