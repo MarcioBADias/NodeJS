@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "primeiro projeto de aprendizado",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
   "author": "Marcio Dias",
   "license": "MIT",
   "dependencies": {
