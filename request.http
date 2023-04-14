@@ -5,10 +5,13 @@ content-type: application/json
     "name": "Blue Marvel",
     "price": 30,
     "quantidade": 1,
-    "ed": "AF",
-    "idEd": "031"
+    "id": "af031"
 }
 
 ###
 
 GET http://localhost:4004/products
+
+###
+
+GET http://localhost:4004/products/smba032
