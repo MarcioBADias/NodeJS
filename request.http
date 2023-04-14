@@ -1,9 +1,14 @@
-POST http://localhost:4002/products
+POST http://localhost:4004/products
 content-type: application/json
 
 {
-    "name": "The Punisher",
+    "name": "Blue Marvel",
     "price": 30,
-    "edition": "SMBA",
-    "serie": 042
+    "quantidade": 1,
+    "ed": "AF",
+    "idEd": "031"
 }
+
+###
+
+GET http://localhost:4004/products
