@@ -1,0 +1,9 @@
+POST http://localhost:4002/products
+content-type: application/json
+
+{
+    "name": "The Punisher",
+    "price": 30,
+    "edition": "SMBA",
+    "serie": 042
+}
